@@ -6,7 +6,21 @@
         <description>DeepFocus app update feed</description>
         <language>en</language>
 
-                        <item>
+                                <item>
+            <title>DeepFocus 1.0.4</title>
+            <sparkle:releaseNotesLink>https://github.com/tiny-dev-industries/deepfocus/releases/tag/v1.0.4</sparkle:releaseNotesLink>
+            <pubDate>Wed, 11 Mar 2026 23:43:26 +0000</pubDate>
+            <enclosure
+                url="https://github.com/tiny-dev-industries/deepfocus/releases/download/v1.0.4/DeepFocus-1.0.4.dmg"
+                sparkle:version="1.0.4"
+                sparkle:shortVersionString="1.0.4"
+                sparkle:edSignature="XOFm19YlsaG1a9kziLaLIhbO4NwIPyLToKOaS2/06h1tf1YSwYO0wcAwv4y6VUuEa8t81HnLA9eglVrDTYOfAQ=="
+                length="1907024"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>DeepFocus 1.0.3</title>
             <sparkle:releaseNotesLink>https://github.com/tiny-dev-industries/deepfocus/releases/tag/v1.0.3</sparkle:releaseNotesLink>
             <pubDate>Wed, 11 Mar 2026 22:29:58 +0000</pubDate>
