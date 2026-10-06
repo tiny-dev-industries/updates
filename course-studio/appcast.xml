@@ -6,6 +6,19 @@
         <description>Course Studio app update feed</description>
         <language>en</language>
         <item>
+            <title>Course Studio 0.7.3</title>
+            <sparkle:releaseNotesLink>https://github.com/jamischarles/course-studio-releases/releases/tag/v0.7.3</sparkle:releaseNotesLink>
+            <pubDate>Tue, 06 Oct 2026 17:58:22 +0000</pubDate>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/jamischarles/course-studio-releases/releases/download/v0.7.3/Course-Studio_0.7.3_aarch64.dmg"
+                sparkle:version="0.7.3"
+                sparkle:shortVersionString="0.7.3"
+                sparkle:edSignature="HspAnppuIhcvVbffFysA/Orcoh5hOdx3a7KrUj6idCTt2CQXIZtj6XT9LYWzOuSMe1b5s+NhD6LY6qyXtP4XAA==" length="3162424"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Course Studio 0.7.2</title>
             <sparkle:releaseNotesLink>https://github.com/jamischarles/course-studio-releases/releases/tag/v0.7.2</sparkle:releaseNotesLink>
             <pubDate>Tue, 06 Oct 2026 17:45:33 +0000</pubDate>
