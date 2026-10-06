@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Course Studio</title>
+        <link>https://github.com/jamischarles/course-studio-releases</link>
+        <description>Course Studio app update feed</description>
+        <language>en</language>
+        <item>
+            <title>Course Studio 0.1.2</title>
+            <sparkle:releaseNotesLink>https://github.com/jamischarles/course-studio-releases/releases/tag/v0.1.2</sparkle:releaseNotesLink>
+            <pubDate>Tue, 06 Oct 2026 12:43:45 +0000</pubDate>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/jamischarles/course-studio-releases/releases/download/v0.1.2/Course-Studio_0.1.2_aarch64.dmg"
+                sparkle:version="0.1.2"
+                sparkle:shortVersionString="0.1.2"
+                sparkle:edSignature="bLW4xcYur5NZ2sx//Ifu/H5KOLZTiGK9dN/Bmal8gf0p9xDs0WwIKIVkHOXNzR3UhTprytCHbXywxXzXx7ltCA==" length="2896366"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
